@@ -1,0 +1,38 @@
+{
+  "name": "urban-shoes-landing",
+  "version": "1.0.0",
+  "description": "3D interactive landing page for Urban Shoes",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNHrai/mib-landing-page-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SNHrai/mib-landing-page-/issues"
+  },
+  "homepage": "https://github.com/SNHrai/mib-landing-page-#readme",
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.5.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "framer-motion": "^12.38.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "three": "^0.183.2",
+    "vite": "^8.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2"
+  }
+}
